@@ -1,0 +1,15 @@
+{
+  "name": "stackblitz-starters-ukajzok1",
+  "version": "1.0.0",
+  "description": "- Grasp the concept of SHA256 cryptographic hashing.\r - Enhance analytical skills in decoding hash values.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
